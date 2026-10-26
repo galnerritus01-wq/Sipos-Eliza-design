@@ -1,0 +1,102 @@
+[
+  {
+    "file": "fonts\\LibreBaskerville-400.ttf",
+    "passed": true,
+    "missing": []
+  },
+  {
+    "file": "fonts\\LibreBaskerville-500.ttf",
+    "passed": true,
+    "missing": []
+  },
+  {
+    "file": "fonts\\LibreBaskerville-600.ttf",
+    "passed": true,
+    "missing": []
+  },
+  {
+    "file": "fonts\\LibreBaskerville-700.ttf",
+    "passed": true,
+    "missing": []
+  },
+  {
+    "file": "fonts\\Lora-400.ttf",
+    "passed": true,
+    "missing": []
+  },
+  {
+    "file": "fonts\\Lora-500.ttf",
+    "passed": true,
+    "missing": []
+  },
+  {
+    "file": "fonts\\Lora-600.ttf",
+    "passed": true,
+    "missing": []
+  },
+  {
+    "file": "fonts\\Lora-700.ttf",
+    "passed": true,
+    "missing": []
+  },
+  {
+    "file": "fonts\\Manrope-400.ttf",
+    "passed": true,
+    "missing": []
+  },
+  {
+    "file": "fonts\\Manrope-500.ttf",
+    "passed": true,
+    "missing": []
+  },
+  {
+    "file": "fonts\\Manrope-600.ttf",
+    "passed": true,
+    "missing": []
+  },
+  {
+    "file": "fonts\\Manrope-700.ttf",
+    "passed": true,
+    "missing": []
+  },
+  {
+    "file": "fonts\\Raleway-400.ttf",
+    "passed": true,
+    "missing": []
+  },
+  {
+    "file": "fonts\\Raleway-500.ttf",
+    "passed": true,
+    "missing": []
+  },
+  {
+    "file": "fonts\\Raleway-600.ttf",
+    "passed": true,
+    "missing": []
+  },
+  {
+    "file": "fonts\\Raleway-700.ttf",
+    "passed": true,
+    "missing": []
+  },
+  {
+    "file": "fonts\\SourceSans3-400.ttf",
+    "passed": true,
+    "missing": []
+  },
+  {
+    "file": "fonts\\SourceSans3-500.ttf",
+    "passed": true,
+    "missing": []
+  },
+  {
+    "file": "fonts\\SourceSans3-600.ttf",
+    "passed": true,
+    "missing": []
+  },
+  {
+    "file": "fonts\\SourceSans3-700.ttf",
+    "passed": true,
+    "missing": []
+  }
+]

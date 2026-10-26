@@ -1,0 +1,77 @@
+{
+  "directions": [
+    {
+      "id": 1,
+      "slug": "puder-levendula",
+      "name": "Púder és levendula",
+      "description": "A saját Figma-terv rózsaszín–levendula világa, Lora és Raleway betűkkel.",
+      "palette": {
+        "primary": "#765782",
+        "secondary": "#B196BD",
+        "accent": "#FBE4F0",
+        "bg": "#FFFFFF",
+        "surface": "#FBE4F0",
+        "text": "#5F5664",
+        "muted": "#685F6C"
+      },
+      "fonts": {
+        "heading": {
+          "family": "Lora"
+        },
+        "body": {
+          "family": "Raleway"
+        }
+      },
+      "file": "koncepcio-1-puder-levendula.html"
+    },
+    {
+      "id": 2,
+      "slug": "zsalyakert",
+      "name": "Zsályakert",
+      "description": "Természetközeli zsályazöld, organikus képek és nyugodt, személyes kompozíció.",
+      "palette": {
+        "primary": "#35594D",
+        "secondary": "#274237",
+        "accent": "#C3AA80",
+        "bg": "#F3F6EF",
+        "surface": "#E1E9DD",
+        "text": "#24382F",
+        "muted": "#526257"
+      },
+      "fonts": {
+        "heading": {
+          "family": "Lora"
+        },
+        "body": {
+          "family": "Source Sans 3"
+        }
+      },
+      "file": "koncepcio-2-zsalyakert.html"
+    },
+    {
+      "id": 3,
+      "slug": "gyongyhaz",
+      "name": "Gyöngyház stúdió",
+      "description": "Gyöngyszürke és petrol, széles képek és határozottabb stúdióhangulat.",
+      "palette": {
+        "primary": "#285563",
+        "secondary": "#1D3D49",
+        "accent": "#CEDDE2",
+        "bg": "#F0F3F5",
+        "surface": "#FFFFFF",
+        "text": "#24343C",
+        "muted": "#52616A"
+      },
+      "fonts": {
+        "heading": {
+          "family": "Libre Baskerville"
+        },
+        "body": {
+          "family": "Manrope"
+        }
+      },
+      "file": "koncepcio-3-gyongyhaz.html"
+    }
+  ],
+  "total": 3
+}

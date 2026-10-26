@@ -1,0 +1,10 @@
+{
+  "phase": "prototypes_complete",
+  "direction_count": 3,
+  "approved": true,
+  "is_redesign": false,
+  "source_url": null,
+  "qa": "desktop_1440_mobile_375_passed",
+  "fonts": "hungarian_glyphs_verified",
+  "images": "user_figma_png"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "font": "Lora",
+    "file": "fonts/Lora.ttf",
+    "missing": [],
+    "test": "árnyéktűrő tükörfúrógép ÁRNYÉKTŰRŐ TÜKÖRFÚRÓGÉP",
+    "passed": true,
+    "source": "https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787weuyJG.ttf"
+  },
+  {
+    "font": "Raleway",
+    "file": "fonts/Raleway.ttf",
+    "missing": [],
+    "test": "árnyéktűrő tükörfúrógép ÁRNYÉKTŰRŐ TÜKÖRFÚRÓGÉP",
+    "passed": true,
+    "source": "https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf"
+  },
+  {
+    "font": "SourceSans3",
+    "file": "fonts/SourceSans3.ttf",
+    "missing": [],
+    "test": "árnyéktűrő tükörfúrógép ÁRNYÉKTŰRŐ TÜKÖRFÚRÓGÉP",
+    "passed": true,
+    "source": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Ky461EN.ttf"
+  },
+  {
+    "font": "LibreBaskerville",
+    "file": "fonts/LibreBaskerville.ttf",
+    "missing": [],
+    "test": "árnyéktűrő tükörfúrógép ÁRNYÉKTŰRŐ TÜKÖRFÚRÓGÉP",
+    "passed": true,
+    "source": "https://fonts.gstatic.com/s/librebaskerville/v24/kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17uj8Q4SCQ.ttf"
+  },
+  {
+    "font": "Manrope",
+    "file": "fonts/Manrope.ttf",
+    "missing": [],
+    "test": "árnyéktűrő tükörfúrógép ÁRNYÉKTŰRŐ TÜKÖRFÚRÓGÉP",
+    "passed": true,
+    "source": "https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FO_F.ttf"
+  }
+]
