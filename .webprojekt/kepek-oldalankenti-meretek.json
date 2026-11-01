@@ -1,0 +1,82 @@
+[
+  {
+    "page": "Főoldal",
+    "view": "Asztali",
+    "width": 1440,
+    "dpr": 1,
+    "before": 1034772,
+    "after": 173974,
+    "saved": 860798,
+    "percent": 83.2
+  },
+  {
+    "page": "Főoldal",
+    "view": "Mobil",
+    "width": 375,
+    "dpr": 1,
+    "before": 1034772,
+    "after": 120154,
+    "saved": 914618,
+    "percent": 88.4
+  },
+  {
+    "page": "Szolgáltatások",
+    "view": "Asztali",
+    "width": 1440,
+    "dpr": 1,
+    "before": 556703,
+    "after": 141613,
+    "saved": 415090,
+    "percent": 74.6
+  },
+  {
+    "page": "Szolgáltatások",
+    "view": "Mobil",
+    "width": 375,
+    "dpr": 1,
+    "before": 556703,
+    "after": 141613,
+    "saved": 415090,
+    "percent": 74.6
+  },
+  {
+    "page": "Rólam",
+    "view": "Asztali",
+    "width": 1440,
+    "dpr": 1,
+    "before": 696040,
+    "after": 72812,
+    "saved": 623228,
+    "percent": 89.5
+  },
+  {
+    "page": "Rólam",
+    "view": "Mobil",
+    "width": 375,
+    "dpr": 1,
+    "before": 696040,
+    "after": 72812,
+    "saved": 623228,
+    "percent": 89.5
+  },
+  {
+    "page": "Kapcsolat",
+    "view": "Asztali",
+    "width": 1440,
+    "dpr": 1,
+    "before": 470374,
+    "after": 50140,
+    "saved": 420234,
+    "percent": 89.3
+  },
+  {
+    "page": "Kapcsolat",
+    "view": "Mobil",
+    "width": 375,
+    "dpr": 1,
+    "before": 470374,
+    "after": 50140,
+    "saved": 420234,
+    "percent": 89.3
+  }
+]

@@ -1,0 +1,244 @@
+[
+  {
+    "original": "images/preview-puder-levendula.webp",
+    "optimized": "images/új képek/preview-puder-levendula.webp",
+    "originalBytes": 64012,
+    "optimizedBytes": 26954,
+    "originalWidth": 960,
+    "width": 800,
+    "displayWidth": 394
+  },
+  {
+    "original": "images/preview-zsalyakert.webp",
+    "optimized": "images/új képek/preview-zsalyakert.webp",
+    "originalBytes": 65480,
+    "optimizedBytes": 24832,
+    "originalWidth": 960,
+    "width": 800,
+    "displayWidth": 394
+  },
+  {
+    "original": "images/preview-gyongyhaz.webp",
+    "optimized": "images/új képek/preview-gyongyhaz.webp",
+    "originalBytes": 73258,
+    "optimizedBytes": 26640,
+    "originalWidth": 960,
+    "width": 800,
+    "displayWidth": 394
+  },
+  {
+    "original": "images/preview-zsalyakert-puder-levendula.png",
+    "optimized": "images/új képek/preview-zsalyakert-puder-levendula.webp",
+    "originalBytes": 554033,
+    "optimizedBytes": 28864,
+    "originalWidth": 1440,
+    "width": 800,
+    "displayWidth": 394
+  },
+  {
+    "original": "images/logo-eredeti.webp",
+    "optimized": "images/logo-eredeti.webp",
+    "originalBytes": 2438,
+    "optimizedBytes": 2438,
+    "originalWidth": 181,
+    "width": 181,
+    "displayWidth": 145
+  },
+  {
+    "original": "images/hero-eredeti-hq.webp",
+    "optimized": "images/új képek/hero-eredeti-hq.webp",
+    "originalBytes": 271484,
+    "optimizedBytes": 70720,
+    "originalWidth": 1254,
+    "width": 1104,
+    "displayWidth": 552,
+    "mobile": "images/új képek/hero-eredeti-hq-640.webp"
+  },
+  {
+    "original": "images/vendeg-stock-portre.jpg",
+    "optimized": "images/új képek/vendeg-stock-portre.webp",
+    "originalBytes": 41514,
+    "optimizedBytes": 3318,
+    "originalWidth": 512,
+    "width": 160,
+    "displayWidth": 80
+  },
+  {
+    "original": "images/vendeg-stock-portre-2.jpg",
+    "optimized": "images/új képek/vendeg-stock-portre-2.webp",
+    "originalBytes": 47082,
+    "optimizedBytes": 2964,
+    "originalWidth": 512,
+    "width": 160,
+    "displayWidth": 80
+  },
+  {
+    "original": "images/ikon-bortipus.png",
+    "optimized": "images/új képek/ikon-bortipus.webp",
+    "originalBytes": 4412,
+    "optimizedBytes": 2638,
+    "originalWidth": 70,
+    "width": 70,
+    "displayWidth": 64
+  },
+  {
+    "original": "images/ikon-fajdalommentes.png",
+    "optimized": "images/új képek/ikon-fajdalommentes.webp",
+    "originalBytes": 5033,
+    "optimizedBytes": 3014,
+    "originalWidth": 80,
+    "width": 80,
+    "displayWidth": 64
+  },
+  {
+    "original": "images/ikon-garancia.png",
+    "optimized": "images/új képek/ikon-garancia.webp",
+    "originalBytes": 6571,
+    "optimizedBytes": 2234,
+    "originalWidth": 256,
+    "width": 128,
+    "displayWidth": 64
+  },
+  {
+    "original": "images/ikon-kornyezet.png",
+    "optimized": "images/új képek/ikon-kornyezet.webp",
+    "originalBytes": 10520,
+    "optimizedBytes": 3512,
+    "originalWidth": 256,
+    "width": 128,
+    "displayWidth": 64
+  },
+  {
+    "original": "images/eliza-portre-hq.webp",
+    "optimized": "images/új képek/eliza-portre-hq.webp",
+    "originalBytes": 147038,
+    "optimizedBytes": 48662,
+    "originalWidth": 1008,
+    "width": 1008,
+    "displayWidth": 504,
+    "mobile": "images/új képek/eliza-portre-hq-640.webp"
+  },
+  {
+    "original": "images/hirlevel-hq.webp",
+    "optimized": "images/új képek/hirlevel-hq.webp",
+    "originalBytes": 207160,
+    "optimizedBytes": 58412,
+    "originalWidth": 1254,
+    "width": 992,
+    "displayWidth": 493,
+    "mobile": "images/új képek/hirlevel-hq-640.webp"
+  },
+  {
+    "original": "images/folyamat-2-hq.webp",
+    "optimized": "images/új képek/folyamat-2-hq.webp",
+    "originalBytes": 101564,
+    "optimizedBytes": 22336,
+    "originalWidth": 1334,
+    "width": 768,
+    "displayWidth": 379
+  },
+  {
+    "original": "images/folyamat-3-hq.webp",
+    "optimized": "images/új képek/folyamat-3-hq.webp",
+    "originalBytes": 225666,
+    "optimizedBytes": 48654,
+    "originalWidth": 1334,
+    "width": 1040,
+    "displayWidth": 520,
+    "mobile": "images/új képek/folyamat-3-hq-640.webp"
+  },
+  {
+    "original": "images/folyamat-4-hq.webp",
+    "optimized": "images/új képek/folyamat-4-hq.webp",
+    "originalBytes": 186064,
+    "optimizedBytes": 23264,
+    "originalWidth": 1334,
+    "width": 768,
+    "displayWidth": 379
+  },
+  {
+    "original": "images/kezeles-hq.webp",
+    "optimized": "images/új képek/kezeles-hq.webp",
+    "originalBytes": 242106,
+    "optimizedBytes": 73588,
+    "originalWidth": 1254,
+    "width": 1254,
+    "displayWidth": 1200,
+    "mobile": "images/új képek/kezeles-hq-640.webp"
+  },
+  {
+    "original": "images/szalon-hq.webp",
+    "optimized": "images/új képek/szalon-hq.webp",
+    "originalBytes": 323336,
+    "optimizedBytes": 72256,
+    "originalWidth": 1498,
+    "width": 1136,
+    "displayWidth": 564,
+    "mobile": "images/új képek/szalon-hq-640.webp"
+  },
+  {
+    "original": "images/szalon-gyongyhaz.webp",
+    "optimized": "images/új képek/szalon-gyongyhaz.webp",
+    "originalBytes": 271960,
+    "optimizedBytes": 43072,
+    "originalWidth": 1497,
+    "width": 896,
+    "displayWidth": 444,
+    "mobile": "images/új képek/szalon-gyongyhaz-640.webp"
+  },
+  {
+    "original": "images/figma-szolgaltatas-hero-hq.webp",
+    "optimized": "images/új képek/figma-szolgaltatas-hero-hq.webp",
+    "originalBytes": 225734,
+    "optimizedBytes": 89124,
+    "originalWidth": 1011,
+    "width": 1011,
+    "displayWidth": 520,
+    "mobile": "images/új képek/figma-szolgaltatas-hero-hq-640.webp"
+  },
+  {
+    "original": "images/figma-belico.webp",
+    "optimized": "images/új képek/figma-belico.webp",
+    "originalBytes": 14206,
+    "optimizedBytes": 5942,
+    "originalWidth": 550,
+    "width": 550,
+    "displayWidth": 423
+  },
+  {
+    "original": "images/figma-mesotica.webp",
+    "optimized": "images/új képek/figma-mesotica.webp",
+    "originalBytes": 53918,
+    "optimizedBytes": 24586,
+    "originalWidth": 579,
+    "width": 579,
+    "displayWidth": 537
+  },
+  {
+    "original": "images/figma-tovabbi.webp",
+    "optimized": "images/új képek/figma-tovabbi.webp",
+    "originalBytes": 30402,
+    "optimizedBytes": 12932,
+    "originalWidth": 486,
+    "width": 486,
+    "displayWidth": 423
+  },
+  {
+    "original": "images/figma-borkep.webp",
+    "optimized": "images/új képek/figma-borkep.webp",
+    "originalBytes": 85074,
+    "optimizedBytes": 38234,
+    "originalWidth": 585,
+    "width": 585,
+    "displayWidth": 564
+  },
+  {
+    "original": "images/figma-mesotica-garancia.webp",
+    "optimized": "images/új képek/figma-mesotica-garancia.webp",
+    "originalBytes": 58548,
+    "optimizedBytes": 13520,
+    "originalWidth": 569,
+    "width": 400,
+    "displayWidth": 200
+  }
+]
