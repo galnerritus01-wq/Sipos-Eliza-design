@@ -1,0 +1,8 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/"
+  to = "/koncepcio-4-zsalyakert-puder-levendula.html"
+  status = 200
+  force = true
