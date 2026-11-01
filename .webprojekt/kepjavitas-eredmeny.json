@@ -1,0 +1,106 @@
+[
+  {
+    "name": "eliza-portre",
+    "original_size": [
+      511,
+      790
+    ],
+    "enhanced_size": [
+      1008,
+      1560
+    ],
+    "file": "images\\eliza-portre-hq.webp",
+    "bytes": 147038
+  },
+  {
+    "name": "hirlevel",
+    "original_size": [
+      548,
+      548
+    ],
+    "enhanced_size": [
+      1254,
+      1254
+    ],
+    "file": "images\\hirlevel-hq.webp",
+    "bytes": 207160
+  },
+  {
+    "name": "hero-eredeti",
+    "original_size": [
+      579,
+      579
+    ],
+    "enhanced_size": [
+      1254,
+      1254
+    ],
+    "file": "images\\hero-eredeti-hq.webp",
+    "bytes": 271484
+  },
+  {
+    "name": "szalon",
+    "original_size": [
+      542,
+      380
+    ],
+    "enhanced_size": [
+      1498,
+      1050
+    ],
+    "file": "images\\szalon-hq.webp",
+    "bytes": 323336
+  },
+  {
+    "name": "folyamat-3",
+    "original_size": [
+      274,
+      242
+    ],
+    "enhanced_size": [
+      1334,
+      1179
+    ],
+    "file": "images\\folyamat-3-hq.webp",
+    "bytes": 225666
+  },
+  {
+    "name": "folyamat-4",
+    "original_size": [
+      274,
+      242
+    ],
+    "enhanced_size": [
+      1334,
+      1179
+    ],
+    "file": "images\\folyamat-4-hq.webp",
+    "bytes": 186064
+  },
+  {
+    "name": "folyamat-2",
+    "original_size": [
+      274,
+      242
+    ],
+    "enhanced_size": [
+      1334,
+      1179
+    ],
+    "file": "images\\folyamat-2-hq.webp",
+    "bytes": 101564
+  },
+  {
+    "name": "kezeles",
+    "original_size": [
+      578,
+      573
+    ],
+    "enhanced_size": [
+      1254,
+      1254
+    ],
+    "file": "images\\kezeles-hq.webp",
+    "bytes": 242106
+  }
+]

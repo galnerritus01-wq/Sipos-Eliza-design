@@ -13,3 +13,7 @@ A menüpontok ezen a prototípuson az adott főoldal megfelelő szakaszára veze
 Minden betűcsalád helyben található a `fonts` mappában, OFL licencével együtt. A különböző vastagságok saját fontfájlból töltődnek. Az összes magyar ékezetes kis- és nagybetű ellenőrzése a `.webprojekt/font-ellenorzes.json` fájlban szerepel.
 
 Ellenőrzött: 1440 px-es asztali és 375 px-es mobil nézet, képek, belső horgonyok, betűbetöltés, mobilmenü, GYIK, bemutató űrlapállapotok. Ellenőrzési eredmény és képernyőképek a `.webprojekt/ellenorzes` mappában.
+
+4. Zsályakert – púder és levendula: `koncepcio-4-zsalyakert-puder-levendula.html`. A Zsályakert elrendezése és betűi, púderrózsaszín–levendula színpalettával.
+
+A púder–levendula Zsályakert aloldalai: `zsalyakert-kezelesek.html`, `zsalyakert-rolunk.html`, `zsalyakert-kapcsolat.html`. A fejléc és lábléc menüje ezeket nyitja meg. Az űrlapok továbbra is bemutatóként működnek.

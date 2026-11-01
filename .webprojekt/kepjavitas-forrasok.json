@@ -1,0 +1,45 @@
+{
+  "mode": "built-in image_gen",
+  "jobs": [
+    {
+      "name": "eliza-portre",
+      "path": "C:\\Users\\HP\\.codex\\generated_images\\01a179be-4563-71c2-bf7b-62baf0ec4ac7\\exec-c251ab63-5702-4416-a579-23a8caa48020.png",
+      "prompt": "Use case: identity-preserve. Edit target: this exact existing website image. Primary request: restore resolution and reduce screenshot/compression blur, professionally and conservatively. Portrait of the same woman. Preserve her exact facial identity, expression, face shape, eye shape, hair, age, body, pose and hands; preserve salon background, pink uniform, pin and lighting. No beauty retouch, no new face or changed identity. Retain vertical aspect ratio. Produce a high resolution image, about 1536px or more on longest side. Increase edge clarity and fine texture without halos, waxy skin or oversharpening. Keep composition, content and all objects unchanged; no new items, text, logos, watermark or redesign. This is photographic restoration of user's own image, not generation of a substitute. Save a usable local asset."
+    },
+    {
+      "name": "hirlevel",
+      "path": "C:\\Users\\HP\\.codex\\generated_images\\01a179be-4563-71c2-bf7b-62baf0ec4ac7\\exec-733c4b2a-98d9-4043-8a0f-bfde79465b3f.png",
+      "prompt": "Use case: precise-object-edit. Edit target: this exact existing website image. Primary request: restore resolution and reduce screenshot/compression blur, professionally and conservatively. Same close-up of hands using laptop with pen. Preserve fingers, exact hand pose, pen, keyboard layout, laptop, perspective and original soft warm daylight. Keep square aspect ratio. Produce a high resolution image, about 1536px or more on longest side. Increase edge clarity and fine texture without halos, waxy skin or oversharpening. Keep composition, content and all objects unchanged; no new items, text, logos, watermark or redesign. This is photographic restoration of user's own image, not generation of a substitute. Save a usable local asset."
+    },
+    {
+      "name": "hero-eredeti",
+      "path": "C:\\Users\\HP\\.codex\\generated_images\\01a179be-4563-71c2-bf7b-62baf0ec4ac7\\exec-5746c419-1071-4221-8ab6-fb87fa26a22a.png",
+      "prompt": "Use case: identity-preserve. Edit target: this exact existing website image. Primary request: restore resolution and reduce screenshot/compression blur, professionally and conservatively. Same cosmetic technology artwork featuring two female faces with blue and orange molecular overlay. Preserve identities, exact faces, gaze, layering, molecule node positions, original crop, square aspect ratio and original color palette. Keep the farther face intentionally out of focus. Produce a high resolution image, about 1536px or more on longest side. Increase edge clarity and fine texture without halos, waxy skin or oversharpening. Keep composition, content and all objects unchanged; no new items, text, logos, watermark or redesign. This is photographic restoration of user's own image, not generation of a substitute. Save a usable local asset."
+    },
+    {
+      "name": "szalon",
+      "path": "C:\\Users\\HP\\.codex\\generated_images\\01a179be-4563-71c2-bf7b-62baf0ec4ac7\\exec-48815761-7018-4fd5-a953-236f68f4c37c.png",
+      "prompt": "Use case: precise-object-edit. Edit target: this exact existing low-resolution website photograph. Restore resolution and reduce compression and screenshot blur conservatively. The same pale pink beauty treatment room. Preserve exact layout, chair and bed, shelves, cosmetic device, round mirror, stool, wall ornament, all furniture, colors and camera angle. No redesign. Maintain landscape aspect ratio. Increase fine edge clarity and plausible natural texture. At least 1536px long edge. Preserve content, same people and facial identity, same composition, same lighting and colors. Do not add text, logos, objects, watermarks or artificial beauty retouching. Not a replacement stock photo: restore this supplied photo. Save a usable local image."
+    },
+    {
+      "name": "folyamat-3",
+      "path": "C:\\Users\\HP\\.codex\\generated_images\\01a179be-4563-71c2-bf7b-62baf0ec4ac7\\exec-ded643c8-13f9-421b-ab13-291b0546c756.png",
+      "prompt": "Use case: identity-preserve. Edit target: this exact existing low-resolution website photograph. Restore resolution and reduce compression and screenshot blur conservatively. The same woman receiving a forehead skin treatment with handheld device, same beautician's hands and tool, same uniform, white headband and facial identity. Remove only the surrounding pink screenshot border; preserve the photographic content and original crop. No new objects or changed poses. Increase fine edge clarity and plausible natural texture. At least 1536px long edge. Preserve content, same people and facial identity, same composition, same lighting and colors. Do not add text, logos, objects, watermarks or artificial beauty retouching. Not a replacement stock photo: restore this supplied photo. Save a usable local image."
+    },
+    {
+      "name": "folyamat-4",
+      "path": "C:\\Users\\HP\\.codex\\generated_images\\01a179be-4563-71c2-bf7b-62baf0ec4ac7\\exec-feccd0d1-e5c6-42c1-bfbb-6214e8460c2a.png",
+      "prompt": "Restore the supplied benign facial skincare demonstration photo for a beauty salon website. An adult woman in fully covered white clothing holds a pink facial skincare tool to her cheek. Use a head-and-shoulders composition only, with clothing fully covering the torso. Preserve her same facial identity, hair, smiling expression, tool and hand pose and bright indoor background. Improve resolution, reduce blur and keep natural skin texture. Remove screenshot margins only. No new people, no added objects or text, no stylization. At least 1024px wide. This is conservative restoration."
+    },
+    {
+      "name": "folyamat-2",
+      "path": "C:\\Users\\HP\\.codex\\generated_images\\01a179be-4563-71c2-bf7b-62baf0ec4ac7\\exec-7c35b565-5b21-405e-9d34-b92fbf9273a8.png",
+      "prompt": "Edit target: the supplied tiny facial skin diagnosis diagram from an existing beauty salon website. Increase resolution to 1024px and clean screenshot blur and compression. Preserve exact existing diagram structure, placement of pink face shapes, visual arrows and proportions. Do not add medical assertions, do not invent or guess label wording; any unreadable original labels may remain unreadable rather than replacing them with false text. Keep white and pale pink colors. Remove screenshot border, no newly added objects, no watermark. Restore original graphic only."
+    },
+    {
+      "name": "kezeles",
+      "path": "C:\\Users\\HP\\.codex\\generated_images\\01a179be-4563-71c2-bf7b-62baf0ec4ac7\\exec-a447f83e-e9c0-474d-89f5-27e36a26b037.png",
+      "prompt": "Conservative identity-preserving restoration of existing treatment photograph; same scene and composition, improved detail and resolution."
+    }
+  ]
+}

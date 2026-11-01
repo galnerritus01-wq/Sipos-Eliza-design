@@ -16,5 +16,9 @@
     "logo-eredeti.webp",
     "szalon.webp"
   ],
-  "note": "Felhasználó által megadott Figma-tervből kiemelt képek és ikonok; nincs külső stock kép."
+  "note": "Felhasználó által megadott Figma-tervből kiemelt képek és ikonok; nincs külső stock kép.",
+  "replacement_icons": {
+    "ikon-garancia.png": "Felhasználó által küldött új ikonképből, teljes kontúrral.",
+    "ikon-kornyezet.png": "Felhasználó által küldött új VIP-ikonképből, teljes kontúrral."
+  }
 }

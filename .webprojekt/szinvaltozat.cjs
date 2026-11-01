@@ -1,0 +1,15 @@
+const fs=require('fs');
+const file='koncepcio-4-zsalyakert-puder-levendula.html';
+let s=fs.readFileSync('koncepcio-2-zsalyakert.html','utf8');
+const palette={'35594D':'765782','274237':'594164','C3AA80':'B196BD','F3F6EF':'FFF9FC','E1E9DD':'FBE4F0','24382F':'423548','526257':'6D5D73','CBD6C5':'DECD E3'.replace(' ',''),'E6ECE0':'F3EAF6','A6B5A1':'BDA5C7','9EB098':'B196BD','B6C6AE':'D3BBD9','AABBA3':'C7AFD0','EAF0E4':'F3ECF7','BCCBB5':'D5C1DD','A4B69C':'B196BD','B4C5AB':'D1B9D9','DFE7DB':'F3E7F5','BDCDB6':'D3BFDC','BDCEB4':'CFB8DA','7B9471':'9471A2','B9C9B3':'CFBAD8','FCFDF9':'FFFCFE','D1DDCA':'E7D8EE','102319':'302138','9B7842':'765782','D6E1CF':'E9D9EF'};
+s=s.replace(/#([0-9a-f]{6})([0-9a-f]{2})?\b/gi,(all,c,a)=>palette[c.toUpperCase()]?'#'+palette[c.toUpperCase()]+(a||''):all).replace('rgba(243,246,239,.97)','rgba(255,249,252,.97)').replace('<title>Zsályakert |','<title>Zsályakert – púder és levendula |');
+s=s.replace('href="koncepcio-2-zsalyakert.html" aria-current="page"','href="koncepcio-2-zsalyakert.html"');
+const link='<a href="'+file+'" aria-current="page">Zsályakert · púder–levendula</a>';
+s=s.replace('</div>\n<header',link+'</div>\n<header');
+if(!s.includes(link))s=s.replace('<a href="koncepcio-3-gyongyhaz.html">Gyöngyház</a>','<a href="koncepcio-3-gyongyhaz.html">Gyöngyház</a>'+link);
+fs.writeFileSync(file,s);
+let index=fs.readFileSync('index.html','utf8').replaceAll('Három főoldal','Négy főoldal').replace('három különböző hangulatban','négy különböző változatban');
+const card='<a class="card" href="'+file+'" style="--surface:#FBE4F0;--brand:#765782"><div class="preview"><img src="images/preview-zsalyakert-puder-levendula.png" width="960" height="667" alt="A Zsályakert főoldal púder és levendula színváltozata, íves kezelési fotóval"></div><div class="body"><div class="meta">04 / A Zsályakert új színvilága</div><h2>Zsályakert – púder és levendula</h2><p>A Zsályakert lágy ívei és nyugodt elrendezése púderrózsaszín hátterekkel és levendulaszínű részletekkel.</p><div class="swatches" aria-label="Mély levendula, púderrózsaszín, törtfehér és levendula"><span style="--swatch:#765782"></span><span style="--swatch:#FBE4F0"></span><span style="--swatch:#FFF9FC"></span><span style="--swatch:#B196BD"></span></div><div class="type">Lora + Source Sans 3</div><div class="open">Megnézem a főoldalt <span aria-hidden="true">↗</span></div></div></a>';
+index=index.replace('</div>\n<aside',card+'\n</div>\n<aside');fs.writeFileSync('index.html',index);
+fs.appendFileSync('MEGTEKINTES.md','\n4. Zsályakert – púder és levendula: `'+file+'`. A Zsályakert elrendezése és betűi, púderrózsaszín–levendula színpalettával.\n');
+console.log('Created '+file+'; index card: '+index.includes(card));
