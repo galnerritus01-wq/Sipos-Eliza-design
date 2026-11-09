@@ -21,6 +21,8 @@
     section { margin-block: 2rem; }
     a { color: #765782; font-weight: 700; overflow-wrap: anywhere; text-decoration: none; }
     a:focus-visible { outline: 2px solid currentColor; outline-offset: 4px; }
+    .return-button { display: inline-block; padding: .7rem 1.35rem; border-radius: 50px; background: #765782; color: white; }
+    .return-button:focus-visible { outline-color: #765782; }
   </style>
 </head>
 <body>
@@ -56,7 +58,27 @@
       <p>A fenti e-mail-címen kérhetsz hozzáférést az adataidhoz, helyesbítést, törlést vagy az adatkezelés korlátozását. A jogszabályban meghatározott esetekben kérheted az adatok hordozását, és tiltakozhatsz a jogos érdeken alapuló adatkezelés ellen. A hozzájárulásodat bármikor visszavonhatod. A visszavonás a korábbi adatkezelés jogszerűségét nem érinti.</p>
       <p>Panaszt tehetsz a <a href="https://www.naih.hu/elerhetosegek">Nemzeti Adatvédelmi és Információszabadság Hatóságnál</a>, vagy bírósághoz fordulhatsz.</p>
     </section>
+    <p><a class="return-button" id="return-to-form" href="/zsalyakert-kapcsolat#idopontkeres">Vissza az űrlaphoz</a></p>
   </main>
   <footer><div class="wrap"><a href="/">Főoldal</a> · <a href="/zsalyakert-kapcsolat">Kapcsolat</a> · <a href="/adatkezeles" aria-current="page">Adatkezelési tájékoztató</a></div></footer>
+  <script>
+    const formRoutes = new Map([
+      ['kisokos', '/#kisokos-igenyles'],
+      ['fooldal', '/#idopontkeres'],
+      ['kapcsolat', '/zsalyakert-kapcsolat#idopontkeres'],
+      ['kezelesek', '/zsalyakert-kezelesek#idopontkeres'],
+      ['rolam', '/zsalyakert-rolunk#idopontkeres']
+    ]);
+    const returnLink = document.getElementById('return-to-form');
+    const source = new URLSearchParams(location.search).get('from');
+    const route = formRoutes.get(source);
+    if (route) {
+      returnLink.href = route;
+      // Close the tab opened by the form. The link is the fallback if closing is blocked.
+      if (document.referrer && new URL(document.referrer).origin === location.origin) {
+        returnLink.addEventListener('click', () => window.close());
+      }
+    }
+  </script>
 </body>
 </html>
