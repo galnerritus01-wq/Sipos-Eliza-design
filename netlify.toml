@@ -2,7 +2,11 @@
   publish = "."
 
 [[redirects]]
-  from = "/"
-  to = "/koncepcio-4-zsalyakert-puder-levendula.html"
-  status = 200
-  force = true
+  from = "/koncepcio-4-zsalyakert-puder-levendula"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/koncepcio-4-zsalyakert-puder-levendula.html"
+  to = "/"
+  status = 301
